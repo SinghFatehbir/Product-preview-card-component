@@ -80,7 +80,7 @@ html, body{
     display: flex;
     align-items: center;
     gap: 1rem;
-    margin: -1.2rem 0;
+    margin: -1rem 0;
 }
 
 .price h1{
@@ -100,6 +100,7 @@ html, body{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 1rem 0;
     width: 100%;
     gap: 0.5rem;
     border: none;
